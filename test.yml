@@ -1,0 +1,12 @@
+name: Ali
+age: 28
+address: "dwhui:iowdiw"
+active: true
+key: 
+    key: value
+    key2: 33
+jsonObject: {key: value, key2: 33}
+array: 
+  - item1
+  - item2
+jsonArray: [item1,item2]
