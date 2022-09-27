@@ -5,6 +5,7 @@ active: true
 key: 
     key: value
     key2: 33
+    key3: qwerty
 jsonObject: {key: value, key2: 33}
 array: 
   - item1
